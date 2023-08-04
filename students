@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "64c9bfaff33a26e182d5cd73"
+  },
+  "name": "Flavio",
+  "age": 1,
+  "gpa": 1.5,
+  "fullTime": false
+},{
+  "_id": {
+    "$oid": "64c9bfaff33a26e182d5cd74"
+  },
+  "name": "Jinju",
+  "age": 2,
+  "gpa": 1.25,
+  "fullTime": true
+},{
+  "_id": {
+    "$oid": "64c9bfaff33a26e182d5cd75"
+  },
+  "name": "Jasper",
+  "age": 1,
+  "gpa": 1,
+  "fullTime": false
+},{
+  "_id": {
+    "$oid": "64c9c0a7f33a26e182d5cd76"
+  },
+  "age": 23,
+  "gpa": 1.22,
+  "fullTime": false,
+  "registeredDate": {
+    "$date": "2023-08-02T02:34:15.882Z"
+  },
+  "graduationDate": null,
+  "courses": [
+    "Filipino",
+    "Math",
+    "English"
+  ],
+  "address": {},
+  "full_name": "Edmon Garcia"
+},{
+  "_id": {
+    "$oid": "64c9c0c3f33a26e182d5cd77"
+  },
+  "name": "Edmon Garcia",
+  "age": 23,
+  "gpa": 1.22,
+  "registeredDate": {
+    "$date": "2023-08-02T02:34:43.193Z"
+  },
+  "graduationDate": {
+    "$date": "2023-08-28T16:00:00Z"
+  },
+  "courses": [
+    "Filipino",
+    "Math",
+    "English"
+  ],
+  "address": {
+    "street": "906 Griarte",
+    "city": "Mandaluyong",
+    "zip": 1550
+  },
+  "fullTime": false
+}]
